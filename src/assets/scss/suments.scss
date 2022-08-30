@@ -1,0 +1,26 @@
+//LEGAL NEEDS
+.legal {
+    .template {
+        div {
+            text-align: justify;
+            text-justify: inter-word;
+        }
+
+        strong,
+        .strong {
+            font-weight: 900;
+            color: black;
+        }
+
+        a,
+        .a {
+            text-decoration: underline;
+            color: green;
+        }
+
+        h3,
+        .h3 {
+            margin: 0px;
+        }
+    }
+}
